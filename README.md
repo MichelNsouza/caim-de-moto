@@ -13,6 +13,7 @@ Ele consome o baas Firebase, responsável por cadastrar, listar, editar, excluir
 * **Ionic** – Responsavel por criar a webview e fazer o import do app web para android
 * **Vue Router** – Roteamento baseado em componentes
 * **Vercel** – Deploy
+* **Firebase** - Baas (backend as a service)
 
 ## Imagens
 
